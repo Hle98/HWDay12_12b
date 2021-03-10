@@ -10,7 +10,6 @@ namespace HWDay12_12b
             var ls = new List<string> { "A", "B", "C", "D" };
             GroupAssignments(ls,5);
         }
-
         static void GroupAssignments(List<string> ls,int k)
         {
             var groups = new List<List<string>>();
