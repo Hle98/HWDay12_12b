@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HWDay12_12b/1.0.0": {
+        "runtime": {
+          "HWDay12_12b.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HWDay12_12b/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

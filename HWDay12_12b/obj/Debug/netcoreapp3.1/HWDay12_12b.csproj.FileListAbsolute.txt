@@ -1,0 +1,13 @@
+C:\Users\Huy Le\source\repos\HWDay12_12b\HWDay12_12b\bin\Debug\netcoreapp3.1\HWDay12_12b.exe
+C:\Users\Huy Le\source\repos\HWDay12_12b\HWDay12_12b\bin\Debug\netcoreapp3.1\HWDay12_12b.deps.json
+C:\Users\Huy Le\source\repos\HWDay12_12b\HWDay12_12b\bin\Debug\netcoreapp3.1\HWDay12_12b.runtimeconfig.json
+C:\Users\Huy Le\source\repos\HWDay12_12b\HWDay12_12b\bin\Debug\netcoreapp3.1\HWDay12_12b.runtimeconfig.dev.json
+C:\Users\Huy Le\source\repos\HWDay12_12b\HWDay12_12b\bin\Debug\netcoreapp3.1\HWDay12_12b.dll
+C:\Users\Huy Le\source\repos\HWDay12_12b\HWDay12_12b\bin\Debug\netcoreapp3.1\HWDay12_12b.pdb
+C:\Users\Huy Le\source\repos\HWDay12_12b\HWDay12_12b\obj\Debug\netcoreapp3.1\HWDay12_12b.AssemblyInfoInputs.cache
+C:\Users\Huy Le\source\repos\HWDay12_12b\HWDay12_12b\obj\Debug\netcoreapp3.1\HWDay12_12b.AssemblyInfo.cs
+C:\Users\Huy Le\source\repos\HWDay12_12b\HWDay12_12b\obj\Debug\netcoreapp3.1\HWDay12_12b.csproj.CoreCompileInputs.cache
+C:\Users\Huy Le\source\repos\HWDay12_12b\HWDay12_12b\obj\Debug\netcoreapp3.1\HWDay12_12b.dll
+C:\Users\Huy Le\source\repos\HWDay12_12b\HWDay12_12b\obj\Debug\netcoreapp3.1\HWDay12_12b.pdb
+C:\Users\Huy Le\source\repos\HWDay12_12b\HWDay12_12b\obj\Debug\netcoreapp3.1\HWDay12_12b.genruntimeconfig.cache
+C:\Users\Huy Le\source\repos\HWDay12_12b\HWDay12_12b\obj\Debug\netcoreapp3.1\HWDay12_12b.csprojAssemblyReference.cache
